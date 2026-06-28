@@ -62,7 +62,7 @@ Finish your README by mentioning the author's name.
 
 **Example:**
 
-**Author:** Aaima Khan
+**Author:** Aniqa Khan
 
 ## Conclusion
 
